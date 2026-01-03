@@ -1,0 +1,4 @@
+# This file ensures dependencies are available for the function
+# Main requirements are installed at build time from root requirements.txt
+serverless-wsgi>=0.8.2
+
